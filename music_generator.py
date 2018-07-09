@@ -1,6 +1,6 @@
 import string
 from random import randint
-training_data_file = 'poems.txt'
+training_data_file = 'music.txt'
 store_notes=[]
 initial_word = {}
 second_word = {}
